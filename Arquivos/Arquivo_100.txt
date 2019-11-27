@@ -1,0 +1,9 @@
+Arquivo de 100 Elementos.
+Tempo de todos em Nano Segundos.
+-------------------------
+
+Média Quick_Sort: 10000
+
+Média Merge_Sort: 30680
+
+Média Insertion_Sort: 11995

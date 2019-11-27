@@ -1,0 +1,8 @@
+Arquivo 20.000 Elementos.
+-------------------------
+
+Média Quick_Sort: 5
+
+Média Merge_Sort: 12
+
+Média Insertion_Sort: 875

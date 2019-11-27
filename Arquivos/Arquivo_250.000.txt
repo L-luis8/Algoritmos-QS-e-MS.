@@ -1,0 +1,2 @@
+
+Média Quick_Sort: 84

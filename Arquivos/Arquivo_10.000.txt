@@ -1,0 +1,9 @@
+Arquivo 10.000 Elementos.
+Tempo em Millisegundos.
+------------------------
+
+Média Quick_Sort: 2
+
+Média Merge_Sort: 4
+
+Média Insertion_Sort: 230
